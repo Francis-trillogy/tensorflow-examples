@@ -1,1 +1,1 @@
-# tensorflow-examples
+# Terminologies in tensorflow
